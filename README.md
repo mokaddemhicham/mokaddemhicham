@@ -41,3 +41,6 @@ I have the ability to be creative and learn new technologies quickly. Because I'
 <img alt="mokaddemhicham" src="https://devstickers.com/assets/img/pro/35k9.png" width="40">
   </a>
 </p>
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokaddemhicham&show_icons=true&theme=tokyonight)
