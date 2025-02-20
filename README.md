@@ -11,7 +11,7 @@ I'm committed to continuous learning, collaboration, and pushing technological b
 ##  
 
 - 👀 I’m interested in <code>**Java Development**</code>, <code>**DevOps**</code>, and <code>**AI**</code>  
-- 🌱 I’m currently learning <code>**advanced Spring Boot features**</code> and <code>**DevOps practices**</code>
+- 🌱 I’m currently learning <code>**advanced JAVA features**</code>, <code>**Cloud Computing**</code> and <code>**DevOps practices**</code>
 - 💞️ I’m looking to collaborate on <code>**Java-based projects**</code> and <code>**DevOps pipelines**</code>
 
 ##  
